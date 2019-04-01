@@ -1,6 +1,10 @@
 LIW - Linux Wizard to assist system dependent operations on Linux
 Copyright (C) 2000 Tomomichi Sugihara (Zhidao)
 
+| *master* | *develop* |
+|----------|-----------|
+|[![Build Status](https://travis-ci.org/hakuturu583/liw.svg?branch=master)](https://travis-ci.org/hakuturu583/liw)|[![Build Status](https://travis-ci.org/hakuturu583/liw.svg?branch=develop)](https://travis-ci.org/hakuturu583/liw)|
+
 -----------------------------------------------------------------
 [What is this?]
 
